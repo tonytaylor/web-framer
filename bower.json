@@ -1,0 +1,22 @@
+{
+  "name": "web-framer",
+  "version": "0.0.1",
+  "authors": [
+    "Tony Taylor <tone.taylor@gmail.com>"
+  ],
+  "description": "A wanna-be Framer Studio, using HTML5 tech.",
+  "license": "MIT",
+  "homepage": "http://webframer.tonetaylor.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ace": "~1.2.0",
+    "lovefield": "~2.0.62",
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
